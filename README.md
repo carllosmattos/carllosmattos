@@ -12,7 +12,7 @@
 
 - 📫 Como me contatar **carllosmattos@yahoo.com**
 
-- 📄 Conheça minhas experiências [atualmente trabalho como desenvolvedor fullstack. Trabalhei como desenvolvedor fullstack em um Hospital da rede Estadual e em uma fintech. Todas as minhas experiências foram no Brasil.](Atualmente trabalho como desenvolvedor fullstack. Trabalhei como desenvolvedor fullstack em um Hospital da rede Estadual e em uma fintech. Todas as minhas experiências foram no Brasil.)
+- 📄 Conheça minhas experiências atualmente trabalho como desenvolvedor fullstack. Trabalhei como desenvolvedor fullstack em um Hospital da rede Estadual e em uma fintech. Todas as minhas experiências foram no Brasil.
 
 <h3 align="left" >Conecte-se comigo:</h3>
 <p align="left">
