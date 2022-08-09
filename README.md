@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carllosmattos&label=Profile%20views&color=0e75b6&style=flat" alt="carllosmattos" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **SolarView projetos, como desenvolvedor fullstack**
+- 🔭 Atualmente estou trabalhando em **SolarView, como desenvolvedor fullstack**
 
 - 🌱 Atualmente estou aprendendo **Devops em aws com terraform, docker e kubernets, Java com Spring**
 
@@ -12,7 +12,7 @@
 
 - 📫 Como me contatar **carllosmattos@yahoo.com**
 
-- 📄 Conheça minhas experiências [atualmente trabalho como desenvolvedor fullstack. Trabalhei como desenvolvedor fullstack em um Hospital da rede Estaual e em uma fintech. Todas as minhas experiências foram no Brasil.](Atualmente trabalho como desenvolvedor fullstack. Trabalhei como desenvolvedor fullstack em um Hospital da rede Estaual e em uma fintech. Todas as minhas experiências foram no Brasil.)
+- 📄 Conheça minhas experiências [atualmente trabalho como desenvolvedor fullstack. Trabalhei como desenvolvedor fullstack em um Hospital da rede Estaual e em uma fintech. Todas as minhas experiências foram no Brasil.](Atualmente trabalho como desenvolvedor fullstack. Trabalhei como desenvolvedor fullstack em um Hospital da rede Estadual e em uma fintech. Todas as minhas experiências foram no Brasil.)
 
 <h3 align="left" >Conecte-se comigo:</h3>
 <p align="left">
