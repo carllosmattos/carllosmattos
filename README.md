@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, sou Carlos Eduardo</h1>
+<h1 align="center">Hi 👋, I'm Carlos Eduardo</h1>
 <h3 align="center">I'm passionate about fullstack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carllosmattos&label=Profile%20views&color=0e75b6&style=flat" alt="carllosmattos" /> </p>
